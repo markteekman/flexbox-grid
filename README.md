@@ -1,5 +1,5 @@
 # Flexbox Grid
-**Powerful, simple, responsive**
+**Powerful, simple, responsive.**
 
 Flexbox Grid is a simple yet powerful responsive front-end grid based on the Flexbox CSS property. It helps you to quickly build advanced layouts for prototyping and real-life projects. Either choose the minified CSS version or the SCSS version to get started. The SCSS version includes a responsive breakpoint mixin as a **bonus**. 😄
 
