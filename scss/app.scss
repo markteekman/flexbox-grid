@@ -13,18 +13,18 @@ html {
 
 // set your breakpoints map
 $breakpoints: (
-  "default"  : 0,
-  "small"		 : 24em,
-  "medium"	 : 48em,
-  "large"		 : 75em,
-  "huge"		 : 87.5em
+  "default" : 0,
+  "small" : 24em,
+  "medium" : 48em,
+  "large" : 75em,
+  "huge" : 87.5em
 ) !default;
 
 // set your grid defaults and calc variable
-$grid-columns	   : 12 !default;
-$grid-gutter     : 16em !default;
+$grid-columns : 12 !default;
+$grid-gutter : 32px !default;
 $container-width : 1200px !default;
-$calc			       : (100% / $grid-columns) !default;
+$calc : (100% / $grid-columns) !default;
 
 // import partials
 @import "breakpoint";
