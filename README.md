@@ -5,7 +5,7 @@ Flexbox Grid is a simple yet powerful responsive front-end grid based on the Fle
 
 **Browser support**: All major browsers including Firefox, Safari, Chrome, Opera and Edgde. Includes fallbacks for Internet Explorer 11+.
 
-[DEMO WITH EXAMPLES AND OPTIONS](#) (coming soon..)
+[DEMO WITH EXAMPLES AND OPTIONS](https://markteekman.nl/project/flexbox-grid)
 
 ## Minified CSS
 The quickest way to get started is to include the minified CSS version into your project:
